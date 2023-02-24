@@ -64,6 +64,7 @@
     <Compile Include="Assets/CombinationPadLock/Script/PadLockEmissionColor.cs" />
     <Compile Include="Assets/LockCamera.cs" />
     <Compile Include="Assets/DoorController.cs" />
+    <Compile Include="Assets/Tavern.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
